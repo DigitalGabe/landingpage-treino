@@ -1,0 +1,6 @@
+git status = Mostra os arquivos que sofreram alterações
+git add . = Adiciona todos os arquivos que foram alterados para o commit
+git commit -m "Mensagem" = O commit é uma confirmação das alterações que serão upadas para o repositório
+git push origin nome_branch = Subir alteração para o repositório
+git branch = Ver as branchs do projeto
+git checkout nome_branch = Altera para uma branch
